@@ -1,0 +1,145 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/africa.jpg",
+      "sha1": "33fc5ce1e5ee10185716921ad858be5d8915d89c"
+    },
+    {
+      "path": "src/assets/arg.jpg",
+      "sha1": "a98f98af18049c1c968cf284a6dd01e75e9bf25d"
+    },
+    {
+      "path": "src/assets/assistant.png",
+      "sha1": "92379cad592067a3fa9a5558e1e5ee03f75077ad"
+    },
+    {
+      "path": "src/assets/astrologer.jpg",
+      "sha1": "e57a861ab43d3371e8451b634d82a84eb31c677d"
+    },
+    {
+      "path": "src/assets/aus.jpg",
+      "sha1": "57dcfb06e78e0a097fa83ca6d06f31ae50128737"
+    },
+    {
+      "path": "src/assets/bell.webp",
+      "sha1": "5146e89c597d1c5a8395fc5c490fd5368b1835a5"
+    },
+    {
+      "path": "src/assets/button.png",
+      "sha1": "2a67024c7d505f52daf044055223fd89cf14b9aa"
+    },
+    {
+      "path": "src/assets/color.png",
+      "sha1": "e8e883290a1e0e888461ddcf924d4ddaff773eea"
+    },
+    {
+      "path": "src/assets/deadpool.png",
+      "sha1": "719ce04323072a4d9d1395d705a7d3d924f5475c"
+    },
+    {
+      "path": "src/assets/dr.jpg",
+      "sha1": "e9846cf5ed9992cab7ed515fba8c72eeca0abdfe"
+    },
+    {
+      "path": "src/assets/dr.png",
+      "sha1": "74605771ab41369a3d5a4542ca5adadbf344cb2e"
+    },
+    {
+      "path": "src/assets/filter.png",
+      "sha1": "1350f0d38d218629d79ee223fa16d921b9c77a5b"
+    },
+    {
+      "path": "src/assets/hulk.jpg",
+      "sha1": "b3596fc17335e21ab8ea935c4ad5dec98ab8a5b9"
+    },
+    {
+      "path": "src/assets/hulk.png",
+      "sha1": "9567b48d5d0ea30d1216bfcd95689106c8d99bca"
+    },
+    {
+      "path": "src/assets/ind.png",
+      "sha1": "2528f2c5ffe5386a04ad8a62d7450a3281f3b741"
+    },
+    {
+      "path": "src/assets/ironman.jpg",
+      "sha1": "518ee9dd827c18b337bbdd8e6888f34a1a806fa9"
+    },
+    {
+      "path": "src/assets/italy.jpg",
+      "sha1": "b0ad8175abec0786c608d4d014fb8294b8563f60"
+    },
+    {
+      "path": "src/assets/makeup.png",
+      "sha1": "a59dce7c5792fac657cd41c3ff66dbb37bce5e0c"
+    },
+    {
+      "path": "src/assets/marvel.jpg",
+      "sha1": "e860192a7764b9f66d70dd1b8ac50eda4a43953d"
+    },
+    {
+      "path": "src/assets/mehendi.jpg",
+      "sha1": "5a830a3abc9a9cdb37fe0f3fba7a6e601fffd3a3"
+    },
+    {
+      "path": "src/assets/photo.png",
+      "sha1": "37751288bc962ef5400e1d833389aa8bdf3c8e67"
+    },
+    {
+      "path": "src/assets/rdj.jpg",
+      "sha1": "3f1f01e6f6c990d0171b335b1176198dcb16a745"
+    },
+    {
+      "path": "src/assets/sam.jpg",
+      "sha1": "faf4a4b4a72ee1bcba72aaccf7f5ef49eb0917e9"
+    },
+    {
+      "path": "src/assets/scarlet.jpg",
+      "sha1": "bd73265fb130443a5c15a8e5c446fadeec9f9e97"
+    },
+    {
+      "path": "src/assets/scarlet.png",
+      "sha1": "d9cfb7801f5b382030698060e680e2d02f92582b"
+    },
+    {
+      "path": "src/assets/search.jpg",
+      "sha1": "9f37fe5d456bdbdedc50b92fe5d9922d6a468b14"
+    },
+    {
+      "path": "src/assets/spain.png",
+      "sha1": "d066cb318ee9fbe7b681d8cf133254c07f2dc8b9"
+    },
+    {
+      "path": "src/assets/spiderman.jpg",
+      "sha1": "215ab767314551a7259586ae2cbdc3f7c031149c"
+    },
+    {
+      "path": "src/assets/stan.png",
+      "sha1": "59b40b5ec660bd7457886360f7abf1dbd0d8922f"
+    },
+    {
+      "path": "src/assets/tab.png",
+      "sha1": "f4733f5147a10acd5d7ab2a5945ed05b2d3b6dfc"
+    },
+    {
+      "path": "src/assets/thanos.webp",
+      "sha1": "7ac55607cd183fbdd6c84e77257348932d3f559d"
+    },
+    {
+      "path": "src/assets/thor.webp",
+      "sha1": "e9fc4df77f3cb56d9fd9d02d46e0b84cadf826a5"
+    },
+    {
+      "path": "src/assets/ultron.webp",
+      "sha1": "53dd2411b5e6ccb17002d5320f7087aff82b2556"
+    },
+    {
+      "path": "src/assets/venom.jpg",
+      "sha1": "6a8cf3799e265b85b7c16a36b0bb62816f3d0fbb"
+    },
+    {
+      "path": "src/assets/wolverine.jpg",
+      "sha1": "30e83bbf785f28c2899fce0ab23d56d7cecfefa1"
+    }
+  ]
+}
